@@ -54,7 +54,7 @@ a {
 
 
 :root {
-    --color-green: #8FE20E;
+    --color-green: #217fdd;
     --color-black: #202020;
     --color-white: #fafafa;
 }
@@ -275,7 +275,7 @@ a {
 .img-tread {
     width: 100%;
     height: 100px;
-    background-image: url(/img/tread-skateboard.jpg);
+    background-image: url(/img/Micompra.png);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -462,3 +462,5 @@ a {
 .freelancer img {
     animation: pulse 3s infinite ease-in-out;
 }
+
+
